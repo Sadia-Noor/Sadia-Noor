@@ -8,13 +8,12 @@
 
 <!-- Subheading (ONLY place for roles) -->
 <p align="center">
-  MS Data Science Student • NLP Researcher • Data Analyst • Mathematics Graduate
+  MS Data Science Student | NLP Researcher | Data Analyst| Mathematics Graduate
 </p>
 
 <!-- Typing animation -->
-<!-- Typing animation (refined & research-focused) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&lines=NLP+Researcher+%7C+Data+Analyst+%7C+MS+Maths+Graduate;Working+with+data+to+understand+patterns+and+behavior;Building+practical+and+research-driven+solutions;Always+learning.+Always+improving." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1400&color=9CA3AF&center=true&vCenter=true&width=700&lines=Working+at+the+intersection+of+data,+language,+and+learning;Focused+on+building+clear,+reliable,+and+meaningful+models;Exploring+problems+through+both+mathematics+and+machine+learning;Consistently+learning,+experimenting,+and+refining" />
 </p>
 
 <br/>
