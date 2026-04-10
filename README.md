@@ -122,16 +122,22 @@ My current research focuses on **personalized emotion modeling from text**, exam
 
 <table>
   <tr>
-    <td width="60"><img src="[https://upload.wikimedia.org/wikipedia/en/thumb/6/65/NUST_logo.png/150px-NUST_logo.png](https://crystalpng.com/wp-content/uploads/2022/02/national-university.png)" width="50"/></td>
+    <td width="60">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/NUST_logo.png/150px-NUST_logo.png" width="50"/>
+    </td>
     <td>
       <strong>MS Data Science</strong><br/>
       National University of Sciences & Technology (NUST) · SEECS<br/>
       📅 2023 – Present &nbsp;|&nbsp; 🎯 GPA: 3.25 / 4.0
     </td>
   </tr>
+
   <tr><td colspan="2"><br/></td></tr>
+
   <tr>
-    <td width="60"><img src="https://sukkuribauni.edu.pk/wp-content/uploads/2021/03/IBA-Logo.png" width="50"/></td>
+    <td width="60">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SIBA_Logo.jpg/500px-SIBA_Logo.jpg" width="50"/>
+    </td>
     <td>
       <strong>BS Mathematics</strong><br/>
       Sukkur IBA University<br/>
