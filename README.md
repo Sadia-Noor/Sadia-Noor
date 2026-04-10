@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=64FFDA&center=true&vCenter=true&width=700&lines=Predicting+Valence+%26+Arousal+from+Longitudinal+Text;Personalized+Emotion+Modeling+%7C+SemEval+2026;Transformer+Architectures+%7C+User+Embeddings;NLP+%2B+Affective+Computing+%2B+Temporal+Dynamics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=64FFDA&center=true&vCenter=true&width=700&lines=BS+Mathematics+%E2%86%92+MS+Data+Science+%E2%86%92+NLP+Researcher;Building+models+that+understand+how+humans+feel;Exploring+the+math+behind+human+emotion;Always+learning.+Always+growing.+Never+settling;Turning+text+into+emotional+insight" alt="Typing SVG" />
 </a>
 
 <br/>
