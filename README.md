@@ -116,14 +116,12 @@ My current research focuses on **personalized emotion modeling from text**, exam
 
 </div>
 
----
-
 ## 🎓 Education
 
 <table>
   <tr>
     <td width="60">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/NUST_logo.png/150px-NUST_logo.png" width="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/NUST_Vector.svg/330px-NUST_Vector.svg.png" width="50"/>
     </td>
     <td>
       <strong>MS Data Science</strong><br/>
@@ -146,7 +144,6 @@ My current research focuses on **personalized emotion modeling from text**, exam
   </tr>
 </table>
 
----
 
 ## 🏅 Certifications
 - 🤗 **Hugging Face Agents Course** — Hugging Face
