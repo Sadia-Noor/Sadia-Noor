@@ -5,7 +5,9 @@
   <img src="https://raw.githubusercontent.com/Sadia-Noor/Sadia-Noor/main/github-header-banner.png" width="100%" style="border-radius:12px;"/>
 </p>
 
-<h3 align="center">∘˙○˚.• Hey there 👋, I'm Sadia — thanks for stopping by... ⋆౨ৎ˚⟡˖ ࣪</h3>
+<h3 align="center">Hey there 👋, I'm Sadia — thanks for stopping by! ࣪</h3>
+<br>
+⋆౨ৎ˚⟡˖
 
 <!-- Subheading (ONLY place for roles) -->
 <p align="center">
