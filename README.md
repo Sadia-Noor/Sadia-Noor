@@ -163,8 +163,9 @@ My current research focuses on **personalized emotion modeling from text**, exam
 > Taught Grades IX–X Mathematics. Conducted assessments, managed classroom learning outcomes.
 
 <div align="center">
-
-*"Emotions are not discrete categories to be classified — they are continuous, personal, and time-dependent."*
+  © 2026 Sadia Noor • All rights reserved <br/>
+  Built with curiosity ✨ and continuous learning ❤️
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
 
