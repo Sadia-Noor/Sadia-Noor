@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sadia%20Noor&fontSize=60&fontColor=e2e8f0&fontAlignY=38&desc=MS%20Data%20Science%20%7C%20NLP%20Researcher%20%7C%20NUST&descAlignY=58&descSize=18&descColor=64ffda&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sadia%20Noor&fontSize=60&fontColor=e2e8f0&fontAlignY=38&desc=NLP%20Researcher%20%7C%20Data%20Analyst%20%7C%20MS%20Data%20Science&descAlignY=58&descSize=18&descColor=9CA3AF&animation=fadeIn"/>
 
 <!-- Typing animation -->
 <!-- Typing animation (refined & research-focused) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&lines=MS+Data+Science+%7C+NLP+Researcher;Modeling+emotion+through+language+and+time;Valence-Arousal+Prediction+%7C+Personalized+NLP;Transformer-based+learning+for+longitudinal+text" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&lines=NLP+Researcher+%7C+Data+Analyst+%7C+MS+Maths+Graduate;Working+with+data+to+understand+patterns+and+behavior;Building+practical+and+research-driven+solutions;Always+learning.+Always+improving." />
 </p>
 
 <br/>
