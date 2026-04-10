@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated header banner (clean) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1a2e,100:16213e&height=160&section=header&text=Sadia%20Noor&fontSize=55&fontColor=e2e8f0&fontAlignY=55&animation=fadeIn"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sadia-Noor/Sadia-Noor/main/banner.png" width="100%" style="border-radius:12px;"/>
+</p>
 
 <h3 align="center">Hey there 👋, I'm Sadia — thanks for stopping by</h3>
 
