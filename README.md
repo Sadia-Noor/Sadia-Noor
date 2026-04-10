@@ -101,19 +101,19 @@ My current research focuses on **personalized emotion modeling from text**, exam
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-## GitHub Stats⚡ 
+## GitHub Stats ⚡ 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadia-Noor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadia-Noor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9CA3AF&icon_color=9CA3AF&text_color=e2e8f0"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Noor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Noor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9CA3AF&text_color=e2e8f0"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadia-Noor&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sadia-Noor&theme=tokyonight&hide_border=true&background=0d1117&stroke=9CA3AF&ring=9CA3AF&fire=ff6b6b&currStreakLabel=9CA3AF)
 
 </div>
 
