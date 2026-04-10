@@ -26,34 +26,6 @@ I am an MS Data Science student at **SEECS, NUST**, currently working on my thes
 
 My work is anchored in **SemEval 2026 Task 2**, using a dataset of ~5,285 self-reported text–emotion pairs from 182 participants collected across seven collection phases. The core challenge: going beyond static, cross-user emotion prediction toward models that are genuinely personalized and temporally aware.
 
-- 🔬 **Thesis Focus:** Personalized Longitudinal Dimensional Affect Modeling
-- 🏫 **Institution:** School of Electrical Engineering & Computer Science (SEECS), NUST
-- 📐 **Background:** BS Mathematics, Sukkur IBA University
-- 📍 **Location:** Islamabad, Pakistan
-
----
-
-## 🔭 Current Research
-
-```
-Thesis: Emotion Modeling for Investigating Dimensional Affect in Longitudinal Texts
-Advisor: Dr. Mehwish Fatima | SEECS, NUST
-
-Architecture:  DistilBERT + Mean Pooling + 128d User Embedding + Dual Head + MSE Loss
-               + Temporal Features (Prev VA + Rolling Window)
-
-Task:          Predicting Valence (−2 to +2) and Arousal (0 to 2) from free-form text
-Benchmark:     SemEval 2026 Task 2, Subtask 1
-Canonical Score: 0.6549 (Composite Pearson r, Controlled Ablation)
-```
-
-**Key research dimensions:**
-- Dimensional vs. discrete emotion representation
-- Longitudinal modeling across temporal collection phases
-- User embedding strategies for personalization
-- Temporal feature engineering (previous VA, rolling statistics)
-- EmoBank intermediate training for affective domain adaptation
-
 ---
 
 ## 🛠️ Technical Stack
@@ -72,7 +44,7 @@ Canonical Score: 0.6549 (Composite Pearson r, Controlled Ablation)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ### Transformer Models Used
-`DistilBERT` · `BERT` · `RoBERTa` · `XLM-RoBERTa` · `DeBERTa` · `GPT`
+`DistilBERT` · `BERT` · `RoBERTa` · `XLM-RoBERTa` · `DeBERTa` · `GPT`,
 
 ### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -81,6 +53,8 @@ Canonical Score: 0.6549 (Composite Pearson r, Controlled Ablation)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EACD1?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Weka](https://img.shields.io/badge/Weka-FF0000?style=flat-square&logo=java&logoColor=white)
 
 ### Tools & Environments
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
@@ -95,37 +69,6 @@ Canonical Score: 0.6549 (Composite Pearson r, Controlled Ablation)
 
 ### 🧬 Thesis — Personalized Longitudinal Affect Modeling *(In Progress)*
 > Predicting continuous valence and arousal from longitudinal ecological essays. Architecture: DistilBERT + user embeddings + temporal features. Evaluated on SemEval 2026 Task 2. Current composite Pearson r: **0.6549**.
-
----
-
-### 🌐 Multilingual Emotion Detection — SemEval 2025 Task 11
-> Fine-tuned **XLM-RoBERTa** for multilingual emotion classification across 5 languages. Addressed low-resource cross-lingual learning. Achieved F1-score of **0.6229**.  
-> `Python` `PyTorch` `HuggingFace` `XLM-RoBERTa` `NLP`
-
----
-
-### 🧠 Brain Tumor Detection using CNN & ML
-> Developed detection models on 3,284 MRI images. CNN achieved **93% accuracy** over 100 epochs; XGBoost/Random Forest reached **92%**.  
-> `Python` `TensorFlow` `CNN` `XGBoost` `Medical Imaging`
-
----
-
-### 🫁 Real vs. Synthetic TB Image Classification
-> Built a pipeline to distinguish real and synthetic TB X-ray images. Synthetic images generated via AutoEncoder. Implemented CNN and VGG16.  
-> `Python` `CNN` `VGG16` `AutoEncoder` `Data Augmentation`
-
----
-
-### 💬 Healthcare Sentiment Analysis via Twitter
-> Analyzed public sentiment on healthcare quality in Pakistan. Achieved **85% accuracy** using Random Forest with TF-IDF + spaCy preprocessing.  
-> `Python` `spaCy` `VADER` `RoBERTa` `Apify` `NLP`
-
----
-
-### 📊 Telco Customer Churn Analysis
-> Predicted telecom churn using IBM dataset. Logistic Regression achieved **95% accuracy**; also tested LSTM, Gradient Boosting, and Decision Trees.  
-> `Python` `Scikit-learn` `LSTM` `TensorFlow`
-
 ---
 
 ## 📈 GitHub Stats
@@ -147,7 +90,6 @@ Canonical Score: 0.6549 (Composite Pearson r, Controlled Ablation)
 ---
 
 ## 🎓 Education
-
 | Degree | Institution | Year | GPA |
 |--------|------------|------|-----|
 | MS Data Science | SEECS, NUST | 2023 – Present | 3.25/4.0 |
@@ -156,19 +98,18 @@ Canonical Score: 0.6549 (Composite Pearson r, Controlled Ablation)
 ---
 
 ## 🏅 Certifications
-
 - 🤗 **Hugging Face Agents Course** — Hugging Face
 - 📘 **NLP and Large Language Models** — Hugging Face
 - 📊 **Harnessing the Power of Data with Power BI** — Microsoft
 - 📑 **Preparing Data for Analysis with Microsoft Excel** — Microsoft
 - 🐍 **Python for Data Science and AI** — Coursera
-- 🏆 **McKinsey Forward Program** — McKinsey & Company
 - 📐 **Excel Skills for Business** — Macquarie University
+- 🏆 **McKinsey Forward Program** — McKinsey & Company
+
 
 ---
 
 ## 💼 Experience
-
 **Machine Learning & Data Augmentation Intern** — *truID, NSTP @ NUST* `Jan 2024 – Feb 2024`
 > Data augmentation pipelines using NumPy, OpenCV, and Albumentation. CNN development in PyTorch for image classification. ResNet, AlexNet implementation.
 
@@ -177,8 +118,6 @@ Canonical Score: 0.6549 (Composite Pearson r, Controlled Ablation)
 
 **Mathematics Teacher (EST)** — *IBA District Montessori School, Shikarpur* `Sep 2022 – Sep 2023`
 > Taught Grades IX–X Mathematics. Conducted assessments, managed classroom learning outcomes.
-
----
 
 <div align="center">
 
