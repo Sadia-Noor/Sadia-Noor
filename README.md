@@ -162,6 +162,9 @@ My current research focuses on **personalized emotion modeling from text**, exam
 **Mathematics Teacher (EST)** — *IBA District Montessori School, Shikarpur* `Sep 2022 – Sep 2023`
 > Taught Grades IX–X Mathematics. Conducted assessments, managed classroom learning outcomes.
 
+<br/>
+
+
 <div align="center">
   © 2026 Sadia Noor • All rights reserved <br/>
   Built with curiosity & love ✨⋆. 𐙚 ˚*•`.🫧 <br/>
