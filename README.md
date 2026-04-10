@@ -2,7 +2,7 @@
 
 <!-- Animated header banner (clean) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sadia-Noor/Sadia-Noor/main/profile_banner.png" width="100%" style="border-radius:12px;"/>
+  <img src="https://raw.githubusercontent.com/Sadia-Noor/Sadia-Noor/main/github-header-banner.png" width="100%" style="border-radius:12px;"/>
 </p>
 
 <h3 align="center">∘˙○˚.• Hey there 👋, I'm Sadia — thanks for stopping by... ⋆౨ৎ˚⟡˖ ࣪</h3>
