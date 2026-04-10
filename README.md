@@ -101,15 +101,16 @@ My current research focuses on **personalized emotion modeling from text**, exam
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-## GitHub Stats⚡
-<div align="center">
+## GitHub Stats ⚡
+
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadia-Noor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9CA3AF&icon_color=9CA3AF&text_color=e2e8f0"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Noor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9CA3AF&text_color=e2e8f0"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=Sadia-Noor&theme=dark&hide_border=true&background=0d1117&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
-</div>
+</p>
 
 ## 🎓 Education
 
