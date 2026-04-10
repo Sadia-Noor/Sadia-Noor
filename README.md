@@ -16,8 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1400&color=9CA3AF&center=true&vCenter=true&width=700&lines=Working+at+the+intersection+of+data,+language,+and+learning;Focused+on+building+clear,+reliable,+and+meaningful+models;Exploring+problems+through+both+mathematics+and+machine+learning;Consistently+learning,+experimenting,+and+refining" />
 </p>
 
-<br/>
-
 ## 🔗 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/sadianoor-06333218a" target="_blank">
@@ -48,7 +46,6 @@
 
 </div>
 
----
 
 ## About Me 👩‍💻
 
@@ -58,9 +55,8 @@ With a background in **Mathematics**, I approach problems with an emphasis on st
 
 My current research focuses on **personalized emotion modeling from text**, examining how emotional signals evolve over time and vary across individuals. The aim is to move beyond static predictions toward more **context-aware, temporally grounded, and personalized representations of human affect**.
 
----
 
-### 🔍 Core Interests
+### Core Interests 🎯
 - Statistical Modeling and Mathematical Foundations  
 - Data Analysis and Visualization  
 - Data Engineering and ETL Pipelines  
@@ -71,9 +67,7 @@ My current research focuses on **personalized emotion modeling from text**, exam
 - Transformer Fine-tuning and Model Personalization  
 - AI for Social Good and Mental Health Applications  
 
----
-
-## 🛠️ Technical Stack
+## Technical Stack 💻
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -105,9 +99,8 @@ My current research focuses on **personalized emotion modeling from text**, exam
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
 
-## 📈 GitHub Stats
+## GitHub Stats⚡ 
 
 <div align="center">
 
