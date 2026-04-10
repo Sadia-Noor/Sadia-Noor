@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sadia%20Noor&fontSize=60&fontColor=e2e8f0&fontAlignY=38&desc=MS%20Data%20Science%20Student%20%7C%20NLP%20Researcher%20%7C%20Data%20Analyst%20%7C%20Mathematics%20Graduate&descAlignY=58&descSize=18&descColor=9CA3AF&animation=fadeIn"/>
+<!-- Animated header banner (clean) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sadia%20Noor&fontSize=60&fontColor=e2e8f0&fontAlignY=50&animation=fadeIn"/>
 
 <!-- Greeting -->
-<h3 align="center">Hey there 👋</h3>
+<h3 align="center">Hey there 👋, I'm Sadia</h3>
 
-<!-- Subheading -->
+<!-- Subheading (ONLY place for roles) -->
 <p align="center">
   MS Data Science Student • NLP Researcher • Data Analyst • Mathematics Graduate
 </p>
