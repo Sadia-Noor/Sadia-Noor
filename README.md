@@ -162,8 +162,34 @@ My current research focuses on **personalized emotion modeling from text**, exam
 **Mathematics Teacher (EST)** — *IBA District Montessori School, Shikarpur* `Sep 2022 – Sep 2023`
 > Taught Grades IX–X Mathematics. Conducted assessments, managed classroom learning outcomes.
 
-<br/>
 
+## Beyond Work 🌿
+
+Beyond academics, I enjoy **reading and writing**.
+
+I like exploring ideas through books, reflecting on them, and expressing thoughts through writing — whether through articles, captions, or personal notes. This side of me complements my analytical work and helps me think more clearly and creatively.
+
+☕ I’ve always been a tea person, but during my MS thesis journey, I developed a taste for coffee — and now I genuinely enjoy both, especially during long study sessions.
+
+📸 I enjoy capturing **photographs**, nature, and quiet moments.
+
+🎬 I’m a big fan of **cinema** (movies), with a strong interest in exploring different genres and storytelling styles.
+
+
+### 🔗 You can explore more here:
+
+- 📖 Goodreads (What I’ve read):  
+  https://www.goodreads.com/user/show/105846614-sadia-noor  
+
+- ✍️ Writing (Articles & Blogs):  
+  Medium: https://medium.com/@sadianoor090  
+  WordPress: https://sadianoor1999.wordpress.com/  
+
+- 📰 Published Work:  
+  Daily Times: https://dailytimes.com.pk/writer/sadia-noor/
+  DAWN: https://www.dawn.com/authors/8883/sadia-noor
+
+<br/>
 
 <div align="center">
   © 2026 Sadia Noor • All rights reserved <br/>
