@@ -28,11 +28,26 @@
 
 ---
 
-## 🧠 About Me
+## About Me 👩‍💻
 
-I am an MS Data Science student at **SEECS, NUST**, currently working on my thesis in **personalized longitudinal emotion modeling**. My research focuses on predicting continuous dimensional affect — specifically **valence and arousal** — from natural language text, while accounting for individual differences and temporal dynamics across multiple timepoints.
+I'm an MS Data Science student working at the intersection of **machine learning, data science, and natural language processing**, with a growing interest in **large language models, generative AI, and AI agents**.
 
-My work is anchored in **SemEval 2026 Task 2**, using a dataset of ~5,285 self-reported text–emotion pairs from 182 participants collected across seven collection phases. The core challenge: going beyond static, cross-user emotion prediction toward models that are genuinely personalized and temporally aware.
+With a background in **Mathematics**, I approach problems with an emphasis on structure, reasoning, and clarity.
+
+My current research focuses on **personalized emotion modeling from text**, examining how emotional signals evolve over time and vary across individuals. The aim is to move beyond static predictions toward more **context-aware, temporally grounded, and personalized representations of human affect**.
+
+---
+
+### 🔍 Core Interests
+- Statistical Modeling and Mathematical Foundations  
+- Data Analysis and Visualization  
+- Data Engineering and ETL Pipelines  
+- Machine Learning and Predictive Modeling  
+- Natural Language Processing and Affective Computing  
+- Large Language Models (LLMs) and Generative AI  
+- AI Agents and Agentic Workflows  
+- Transformer Fine-tuning and Model Personalization  
+- AI for Social Good and Mental Health Applications  
 
 ---
 
@@ -51,9 +66,6 @@ My work is anchored in **SemEval 2026 Task 2**, using a dataset of ~5,285 self-r
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### Transformer Models Used
-`DistilBERT` · `BERT` · `RoBERTa` · `XLM-RoBERTa` · `DeBERTa` · `GPT`,
-
 ### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -71,12 +83,6 @@ My work is anchored in **SemEval 2026 Task 2**, using a dataset of ~5,285 self-r
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-## 📌 Selected Projects
-
-### 🧬 Thesis — Personalized Longitudinal Affect Modeling *(In Progress)*
-> Predicting continuous valence and arousal from longitudinal ecological essays. Architecture: DistilBERT + user embeddings + temporal features. Evaluated on SemEval 2026 Task 2. Current composite Pearson r: **0.6549**.
 ---
 
 ## 📈 GitHub Stats
@@ -98,10 +104,26 @@ My work is anchored in **SemEval 2026 Task 2**, using a dataset of ~5,285 self-r
 ---
 
 ## 🎓 Education
-| Degree | Institution | Year | GPA |
-|--------|------------|------|-----|
-| MS Data Science | SEECS, NUST | 2023 – Present | 3.25/4.0 |
-| BS Mathematics | Sukkur IBA University | 2018 – 2022 | 3.35/4.0 |
+
+<table>
+  <tr>
+    <td width="60"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/NUST_logo.png/150px-NUST_logo.png" width="50"/></td>
+    <td>
+      <strong>MS Data Science</strong><br/>
+      National University of Sciences & Technology (NUST) · SEECS<br/>
+      📅 2023 – Present &nbsp;|&nbsp; 🎯 GPA: 3.25 / 4.0
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="60"><img src="https://sukkuribauni.edu.pk/wp-content/uploads/2021/03/IBA-Logo.png" width="50"/></td>
+    <td>
+      <strong>BS Mathematics</strong><br/>
+      Sukkur IBA University<br/>
+      📅 2018 – 2022 &nbsp;|&nbsp; 🎯 GPA: 3.35 / 4.0
+    </td>
+  </tr>
+</table>
 
 ---
 
