@@ -19,24 +19,33 @@
 <br/>
 
 <!-- Profile badges -->
+## 🔗 Connect with me
+
 <p align="center">
-
-<a href="https://linkedin.com/in/sadianoor-06333218a">
-  <img src="https://img.shields.io/badge/LinkedIn-sadianoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sadianoor090@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sadia-Noor">
-  <img src="https://img.shields.io/badge/GitHub-Sadia--Noor-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/sadianoor2023">
-  <img src="https://img.shields.io/badge/Kaggle-sadianoor2023-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/sadianoor-06333218a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  </a>
+  <a href="mailto:sadianoor090@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+  </a>
+  <a href="https://github.com/Sadia-Noor" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  </a>
+  <a href="https://www.kaggle.com/sadianoor2023" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="45"/>
+  </a>
+  <a href="https://www.youtube.com/@DataTech_Insights" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="45"/>
+  </a>
+  <a href="https://www.quora.com/profile/Sadia-Noor-16" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" width="45"/>
+  </a>
+  <a href="https://medium.com/@sadianoor090" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="45"/>
+  </a>
+  <a href="https://sadianoor1999.wordpress.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="45"/>
+  </a>
 </p>
 
 </div>
