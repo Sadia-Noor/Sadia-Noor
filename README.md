@@ -164,7 +164,8 @@ My current research focuses on **personalized emotion modeling from text**, exam
 
 <div align="center">
   © 2026 Sadia Noor • All rights reserved <br/>
-  Built with curiosity ✨ and continuous learning ❤️
+  Built with curiosity & love✨ 
+  Always learning, improving, and growing. ❤️
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
