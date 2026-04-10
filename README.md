@@ -140,7 +140,7 @@ My current research focuses on **personalized emotion modeling from text**, exam
 </table>
 
 
-## 🏅 Certifications
+## Certifications 🏅
 - 🤗 **Hugging Face Agents Course** — Hugging Face
 - 📘 **NLP and Large Language Models** — Hugging Face
 - 📊 **Harnessing the Power of Data with Power BI** — Microsoft
@@ -150,9 +150,7 @@ My current research focuses on **personalized emotion modeling from text**, exam
 - 🏆 **McKinsey Forward Program** — McKinsey & Company
 
 
----
-
-## 💼 Experience
+## Experience 💼
 **Machine Learning & Data Augmentation Intern** — *truID, NSTP @ NUST* `Jan 2024 – Feb 2024`
 > Data augmentation pipelines using NumPy, OpenCV, and Albumentation. CNN development in PyTorch for image classification. ResNet, AlexNet implementation.
 
@@ -163,7 +161,7 @@ My current research focuses on **personalized emotion modeling from text**, exam
 > Taught Grades IX–X Mathematics. Conducted assessments, managed classroom learning outcomes.
 
 
-## Beyond Work 🌿
+## Fun Facts 🌿
 
 Beyond academics, I enjoy **reading and writing**.
 
@@ -175,6 +173,7 @@ I like exploring ideas through books, reflecting on them, and expressing thought
 
 🎬 I’m a big fan of **cinema** (movies), with a strong interest in exploring different genres and storytelling styles.
 
+---
 
 ### 🔗 You can explore more here:
 
