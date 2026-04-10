@@ -19,10 +19,25 @@
 <br/>
 
 <!-- Profile badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadianoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadianoor-06333218a)
-[![Email](https://img.shields.io/badge/Email-sadianoor090@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadianoor090@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sadia--Noor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadia-Noor)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+<p align="center">
+
+<a href="https://linkedin.com/in/sadianoor-06333218a">
+  <img src="https://img.shields.io/badge/LinkedIn-sadianoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sadianoor090@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sadia-Noor">
+  <img src="https://img.shields.io/badge/GitHub-Sadia--Noor-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/sadianoor2023">
+  <img src="https://img.shields.io/badge/Kaggle-sadianoor2023-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
