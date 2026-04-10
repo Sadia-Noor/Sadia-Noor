@@ -90,7 +90,7 @@ My current research focuses on **personalized emotion modeling from text**, exam
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Weka]([https://img.shields.io/badge/Weka-FF0000?style=flat-square&logo=java&logoColor=white](https://weka.ai/))
+![Weka](https://img.shields.io/badge/Weka-FF0000?style=flat-square&logo=java&logoColor=white)
 
 ### Tools & Environments
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
