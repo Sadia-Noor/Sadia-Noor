@@ -104,8 +104,8 @@ My current research focuses on **personalized emotion modeling from text**, exam
 ## GitHub Stats ⚡
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadia-Noor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9CA3AF&icon_color=9CA3AF&text_color=e2e8f0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Noor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9CA3AF&text_color=e2e8f0"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sadia-Noor&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sadia-Noor&theme=tokyonight"/>
 </p>
 
 <p align="center">
