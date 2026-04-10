@@ -185,7 +185,7 @@ I like exploring ideas through books, reflecting on them, and expressing thought
   WordPress: https://sadianoor1999.wordpress.com/  
 
 - 📰 Published Work:  
-  Daily Times: https://dailytimes.com.pk/writer/sadia-noor/
+  Daily Times: https://dailytimes.com.pk/writer/sadia-noor/ <br/>
   DAWN: https://www.dawn.com/authors/8883/sadia-noor
 
 <br/>
