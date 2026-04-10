@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Sadia-Noor/Sadia-Noor/main/profile_banner.png" width="100%" style="border-radius:12px;"/>
 </p>
 
-<h3 align="center">Hey there 👋, I'm Sadia — thanks for stopping by</h3>
+<h3 align="center">∘˙○˚.• Hey there 👋, I'm Sadia — thanks for stopping by... ⋆౨ৎ˚⟡˖ ࣪</h3>
 
 <!-- Subheading (ONLY place for roles) -->
 <p align="center">
@@ -164,7 +164,7 @@ My current research focuses on **personalized emotion modeling from text**, exam
 
 <div align="center">
   © 2026 Sadia Noor • All rights reserved <br/>
-  Built with curiosity & love✨ 
+  Built with curiosity & love ✨⋆. 𐙚 ˚*•`.🫧 <br/>
   Always learning, improving, and growing. ❤️
 </div>
 
