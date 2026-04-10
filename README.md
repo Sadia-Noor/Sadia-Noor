@@ -4,9 +4,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sadia%20Noor&fontSize=60&fontColor=e2e8f0&fontAlignY=38&desc=MS%20Data%20Science%20%7C%20NLP%20Researcher%20%7C%20NUST&descAlignY=58&descSize=18&descColor=64ffda&animation=fadeIn"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=64FFDA&center=true&vCenter=true&width=700&lines=BS+Mathematics+%E2%86%92+MS+Data+Science+%E2%86%92+NLP+Researcher;Building+models+that+understand+how+humans+feel;Exploring+the+math+behind+human+emotion;Always+learning.+Always+growing.+Never+settling;Turning+text+into+emotional+insight" alt="Typing SVG" />
-</a>
+<!-- Typing animation (refined & research-focused) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&lines=MS+Data+Science+%7C+NLP+Researcher;Modeling+emotion+through+language+and+time;Valence-Arousal+Prediction+%7C+Personalized+NLP;Transformer-based+learning+for+longitudinal+text" />
+</p>
 
 <br/>
 
