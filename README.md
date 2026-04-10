@@ -1,9 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=160&text=Sadia%20Noor&fontSize=55&fontColor=e2e8f0&fontAlignY=55&desc=MS%20Data%20Science%20%7C%20NLP%20Researcher%20%7C%20NUST&descSize=16&descColor=64ffda&descAlignY=75"/>
-<h3 align="center">Hey there 👋 I'm Sadia</h3>
+<!-- Animated header banner (clean) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a2e,100:16213e&height=160&text=Sadia%20Noor&fontSize=55&fontColor=e2e8f0&fontAlignY=55"/>
+
+<!-- Greeting -->
+<h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>, I'm Sadia</h3>
+
+<!-- Subheading (ONLY place for roles) -->
 <p align="center">
-  MS Data Science Student | NLP Researcher | Data Analyst | Mathematics Graduate
+  MS Data Science Student | NLP Researcher | Data Analyst| Mathematics Graduate
 </p>
 
 <!-- Typing animation -->
