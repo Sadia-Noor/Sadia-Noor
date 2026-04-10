@@ -122,7 +122,7 @@ My current research focuses on **personalized emotion modeling from text**, exam
 
 <table>
   <tr>
-    <td width="60"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/NUST_logo.png/150px-NUST_logo.png" width="50"/></td>
+    <td width="60"><img src="[https://upload.wikimedia.org/wikipedia/en/thumb/6/65/NUST_logo.png/150px-NUST_logo.png](https://crystalpng.com/wp-content/uploads/2022/02/national-university.png)" width="50"/></td>
     <td>
       <strong>MS Data Science</strong><br/>
       National University of Sciences & Technology (NUST) · SEECS<br/>
