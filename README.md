@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sadia Noor</h1>
+<h3 align="center">MS Data Science Student | NLP Researcher | Data Analyst</h3>
 
-<!--
-**Sadia-Noor/Sadia-Noor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🎓 MS Data Science student working on **Emotion Prediction from Longitudinal Text**
+- 🔬 Focus: **Valence-Arousal Modeling, Transformers, Temporal Dynamics**
+- 📊 Background in **Mathematics**
+- 🧪 Currently working on my **MS Thesis**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Work
+- 🔭 Thesis: *Personalized Emotion Prediction using Transformer Models*
+- 🌱 Exploring: **Time-series modeling + personalization in NLP**
+- 🧩 Working with: **Longitudinal emotional datasets**
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/" target="blank">LinkedIn</a> •
+<a href="mailto:your-email@gmail.com">Email</a>
+</p>
+
+---
